@@ -30,8 +30,6 @@
 | [`Skywind_Fox_Firefighting_Main`](https://github.com/Skywindfox/Skywind_Fox_Firefighting_Main) | 控制端软件：C++ + LVGL 界面，跑在 STM32MP135 开发板上 | 界面已跑通 |
 | [`Skywind_Fox_Firefighting_detect_Part`](https://github.com/Skywindfox/Skywind_Fox_Firefighting_detect_Part) | 探测端固件：STM32 采集火焰/烟雾/温度，上报主控 | 开发中 |
 
-> 两个仓库需要 clone 到同一台开发机分别编译；控制端可独立运行（传感器数据用桩替代）。
-
 ---
 
 ## 系统架构
@@ -87,8 +85,8 @@
 
 | 角色 | 负责 |
 |---|---|
-| 〈TODO：姓名〉 | 〈TODO：硬件 / 探测端 / 系统移植〉 |
-| 〈TODO：姓名〉 | 〈TODO：界面 / 业务逻辑 / 文档〉 |
+| 〈Skywind_Fox〉 | 〈TODO：硬件 / 探测端 / 系统移植〉 |
+| 〈FBI-0537〉 | 〈TODO：界面 / 业务逻辑 / 文档〉 |
 
 ---
 
